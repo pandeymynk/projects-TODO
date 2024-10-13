@@ -1,0 +1,41 @@
+div{
+    align-self: center;
+}
+
+#write{
+    width: 1500px;
+    height: 100px;
+    background-color: wheat;
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 3px;
+    
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-stretch: expanded;
+
+}
+h2{
+    color: red;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+done{
+            text-decoration: line-through;
+         }
+
+#todo-list{
+    width: 1500px;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ul{
+    font-family: 'Times New Roman', Times, serif;
+}
